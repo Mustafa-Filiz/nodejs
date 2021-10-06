@@ -1,0 +1,23 @@
+{
+  "name": "patika_odev_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mustafa-Filiz/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mustafa-Filiz/nodejs/issues"
+  },
+  "homepage": "https://github.com/Mustafa-Filiz/nodejs#readme",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
